@@ -58,3 +58,4 @@ gem "rolify", ">= 3.2.0"
 gem "simple_form", ">= 2.0.2"
 gem "google_visualr", ">= 2.1.2"
 gem "jquery-datatables-rails", ">= 1.10.0"
+gem "hub", ">= 1.10.2", :require => nil, :group => [:development]
